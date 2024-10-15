@@ -25,5 +25,5 @@ Each node handles specific tasks:
 ## How to Run
 
 1. Clone the repository:
-
+https://github.com/SayemKabir1/Thread-Distributed-Execution-and-Synchronization/blob/main/distributed_task_execution.py
    
